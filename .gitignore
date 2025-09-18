@@ -1,0 +1,27 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+api-demo/.idea
+api-demo/.iws
+api-demo/*.iml
+api-demo/*.ipr
+
+api-produto/.idea
+api-produto/.iws
+api-produto/*.iml
+api-produto/*.ipr
+
+api-produto/target/
+api-demo/target/
+
+api-produto/.mvn/wrapper/maven-wrapper.jar
+api-demo/.mvn/wrapper/maven-wrapper.jar
+
+api-produto/!**/src/main/**/target/
+api-demo/!**/src/test/**/target/
+
+
+
+
